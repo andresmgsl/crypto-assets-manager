@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "menu-generator-ac372": {
+      "hosting": {
+        "crypto-assets-manager": [
+          "menu-generator-ac372"
+        ]
+      }
+    }
+  }
+}
